@@ -103,6 +103,7 @@ We'll rename the files and we'll add schema documentation for the daytime table.
 ## Maintainers and Credits
 
 Time Data Generator is maintained by [Vettabase](https://vettabase.com).
+If you need support, [contact us](https://vettabase.com/contact/).
 
 TDG was originally forked from [calendar_table](https://github.com/TeneoPython01/calendar_table).
 The original project's author is [TeneoPython01](https://github.com/TeneoPython01).
