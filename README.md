@@ -109,5 +109,5 @@ External contributions, if still present, are noted in the code.
 ## License
 
 This software is released in the public domain as-is without any warranty.
-See the license file.
+See the `LICENSE` file.
 
