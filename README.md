@@ -1,9 +1,9 @@
 # Time Data Generator
 
-The purpose of this project is to generate rich date/time data that can easily be imported
+The purpose of Time Data Generator is to generate rich date/time data that can easily be imported
 into a database, for analytics goals.
 
-The project contains tools to generate a calendar table and a daytime table, with various
+TDG contains tools to generate a calendar table and a daytime table, with various
 attributes and metadata.
 
 The output is currently written to CSV files.
@@ -13,7 +13,7 @@ The output is currently written to CSV files.
 
 The best way to use these tools is via Docker or Podman.
 While containerisation is not strictly necessary, it is how we normally test
-and use this project.
+and use this TDG.
 
 The first time you run this Generator, you'll need to build a Docker image
 from the Dockerfile. You'll need to do it again every time you update
@@ -99,9 +99,9 @@ We will do this at least for PostgreSQL and MariaDB.
 
 ## Maintainers and Credits
 
-This project is maintained by Vettabase.
+Time Data Generator is maintained by Vettabase.
 
-This project was originally forked from [TeneoPython01/calendar_table](https://github.com/TeneoPython01/calendar_table).
+TDG was originally forked from [TeneoPython01/calendar_table](https://github.com/TeneoPython01/calendar_table).
 The original project's author is [TeneoPython01](https://github.com/TeneoPython01).
 External contributions, if still present, are noted in the code.
 
