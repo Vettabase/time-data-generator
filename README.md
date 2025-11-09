@@ -101,7 +101,7 @@ We will do this at least for PostgreSQL and MariaDB.
 
 Time Data Generator is maintained by Vettabase.
 
-TDG was originally forked from [TeneoPython01/calendar_table](https://github.com/TeneoPython01/calendar_table).
+TDG was originally forked from [calendar_table](https://github.com/TeneoPython01/calendar_table).
 The original project's author is [TeneoPython01](https://github.com/TeneoPython01).
 External contributions, if still present, are noted in the code.
 
