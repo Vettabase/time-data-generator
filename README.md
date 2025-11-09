@@ -81,7 +81,7 @@ Additionally, some interesting and unique data elements include:
 Documentation: [Full column list with datatypes and descriptions](./docs/col_descriptions.csv)
 
 
-## Limitations
+## Limitations / To Do
 
 32-bit OS and hardware may cause limitations in the ability
 to generate table data for years far in the future (2040) and raise
@@ -95,6 +95,9 @@ CSV files are generated and they can be imported into databases.
 But we don't provide (yet) a simple way to generate optimal tables
 with the correct types.
 We will do this at least for PostgreSQL and MariaDB.
+
+Schema documentation is only generated for the calendar table.
+We'll rename the files and we'll add schema documentation for the daytime table.
 
 
 ## Maintainers and Credits
